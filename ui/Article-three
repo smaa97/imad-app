@@ -1,0 +1,25 @@
+<head>
+    <title>
+        Article THREE | SIRAJ KAZI
+    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body>
+    <div>
+    <a href="/">Home</a>
+    </div>
+    <hr/>
+    <h3>
+        Article Three
+    </h3>
+    <div>
+        Sep 5 2017
+    </div>
+    <div>
+        <p>
+            Alhamdulillah This is my Third article. Alhamdulillah.  Alhamdulillah This is my Third article. 
+        </p>
+       
+    </div>
+</body>
+</html>
